@@ -13,8 +13,14 @@ Download the *Just-Do-To-Do.jar* file to get started. Once it is downloaded loca
 To use Just-Do-To-Do:
 
 Click on the textfield in the top right corner and enter your task via the keyboard. 
+![Capture](https://user-images.githubusercontent.com/71899121/99915426-d1cabd80-2cc0-11eb-964d-c1d6fbf9415e.PNG)
 
 
-When complete, click the **ADD** button to add your task to the list. Your task will now be visible on the listview. To add more tasks, repeat the same process. To delete a task, click on your task located on the list view and then click the **Delete** button at the bottom of the page. Your selected task will now be removed.
+
+Click the **ADD** button to add your task to the list.
+
+
+
+Your task will now be visible on the listview. To add more tasks, repeat the same process. To delete a task, click on your task located on the list view and then click the **Delete** button at the bottom of the page. Your selected task will now be removed.
 
 ## 
