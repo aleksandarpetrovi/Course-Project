@@ -35,5 +35,7 @@ To delete a task, click on your task located on the list view and then click the
 
 
 Your selected task will now be removed.
+![Capture6](https://user-images.githubusercontent.com/71899121/99915539-89f86600-2cc1-11eb-8711-9cb9f7d381b8.PNG)
 
-## 
+
+
