@@ -23,6 +23,10 @@ Click the **ADD** button to add your task to the list.
 
 
 Your task will now be visible on the listview. To add more tasks, repeat the same process.
+![Capture3](https://user-images.githubusercontent.com/71899121/99915489-3dad2600-2cc1-11eb-88e8-18a153dae4c6.PNG)
+
+
+
 
 To delete a task, click on your task located on the list view and then click the **Delete** button at the bottom of the page.
 
