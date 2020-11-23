@@ -39,3 +39,21 @@ Your selected task will now be removed.
 
 
 
+## Building:
+
+#### Setup
+To start building this project you will need to setup three things:
+- Download the JDK
+- Download your IDE of choice (Netbeans, Eclipse, InteliJ, etc...)
+- Download and link Scenebuilder to your IDE
+
+Using this things you will be able to build this application.
+
+#### In Your IDE
+
+Create a new javaFX project and add the javaFX library to get started on your project. You'll then want to open a new FXML file within your project and right click on the file. Go to "Open with **Scenebuilder**" and you will be greeted with a new environment for building your application. 
+
+In Scenebuilder, you will be able to build the layout of your application as well as add things like buttons, textfields, tables, etc... All of these items will need to be linked to your Main.java class as well as a **Controller** class which determines what each of those items will do.
+
+Back in your IDE, you will need to create Object classes that will shape the 
+
