@@ -47,13 +47,21 @@ To start building this project you will need to setup three things:
 - Download your IDE of choice (Netbeans, Eclipse, InteliJ, etc...)
 - Download and link Scenebuilder to your IDE
 
-Using this things you will be able to build this application.
+Using these things you will be able to build this application.
 
 #### In Your IDE
 
-Create a new javaFX project and add the javaFX library to get started on your project. You'll then want to open a new FXML file within your project and right click on the file. Go to "Open with **Scenebuilder**" and you will be greeted with a new environment for building your application. 
+Create a new javaFX project and add the javaFX library to get started on your project. In the "application" package of your project, a **Main.java** class will be automatically added which will be the starting point of your build. This class will be in charge of the visual aspect of your application, as well as launching an individual instance of it within the main method. You'll then want to open a new FXML file within your project and right click on the file. Go to "Open with **Scenebuilder**" and you will be greeted with a new environment for building your application. 
 
 In Scenebuilder, you will be able to build the layout of your application as well as add things like buttons, textfields, tables, etc... All of these items will need to be linked to your Main.java class as well as a **Controller** class which determines what each of those items will do.
 
-Back in your IDE, you will need to create Object classes that will shape the 
+Back in your IDE, you will need to create Object classes that will define the different parts of your application. For my to-do list, I needed to create a class that defines what fields a "task" has as well as the methods associated with it. My Controller class defined the actions for each of the controls in my application and linked them to methods that were defined in the LocalEvent.java class. 
+
+As you make changes in Scenebuilder, your FXML will be automatically updated to contain the necessary code in order to display your application. 
+
+#### Finishing Up
+
+Once you have completed your application, you will need to export the project as a **.JAR file** in order to run the program locally on your machine. Right clicking on the project and then clicking **Export** in the menu will take you to a new screen where you can finilaze exporting your application. Once exported, you can run and use your application like any other application on your device!
+
+
 
