@@ -2,8 +2,15 @@
 
 ## Version [0.03] - 2020-11-22
 
-## Changed
-- Updated README.md file with new sections (
+### Added
+- Added pictures to README.md file for **Installation** section
+- Shared project documents in github repository
+
+### Changed
+- Updated README.md file with new sections (**Building**)
+- Fixed typos in README.md file. 
+- Updated javaFX file to better implement the controls in Scenebuilder
+
 
 ## Version [0.02] - 2020-11-21
 ### Added
